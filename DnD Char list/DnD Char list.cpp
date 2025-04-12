@@ -170,6 +170,6 @@ int main() {
 
     cout << name << endl << classPlayer2[choiceClass] << endl << SubRace[choiceSubRace] << endl;
     cout << "STR: " << stats[0] << " DEX: " << stats[1] << " CON: " << stats[2] << " INT: " << stats[3] << " WIS: " << stats[4] << " CHA: " << stats[5] << endl;
-
+// Diego loves Dnd
 
 }
