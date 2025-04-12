@@ -1,4 +1,6 @@
 #include <iostream>
+// denis autograph
+
 
 using namespace std;
 
@@ -38,6 +40,7 @@ int main() {
         {0,2,0,0,0,1}, // Halfling Light-foot
         {0,2,1,0,0,0}, // Halfling Stout
         {0,0,0,1,0,2}  // Tiefling
+    
     };
 
     int choice = 0;
